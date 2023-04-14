@@ -1,3 +1,5 @@
+package Zadanie1;
+
 public class Telephone {
 
     private String brand;
